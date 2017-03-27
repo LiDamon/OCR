@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspriseOCR", "AspriseOCR\AspriseOCR.csproj", "{E0BE86CB-AF20-4F61-99DC-5D22D880E91E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceDetection", "FaceDetection\FaceDetection.csproj", "{EF3F6EA1-38F2-4C3C-8079-C06B8B5DDCC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastTemplateMatching", "FastTemplateMatching\FastTemplateMatching.csproj", "{83816CC9-DB98-4048-888D-E81CB08178D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeDetection", "ShapeDetection\ShapeDetection.csproj", "{6FB54AFB-76D2-4AFD-B1C7-38AEF0314B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0BE86CB-AF20-4F61-99DC-5D22D880E91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BE86CB-AF20-4F61-99DC-5D22D880E91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BE86CB-AF20-4F61-99DC-5D22D880E91E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E0BE86CB-AF20-4F61-99DC-5D22D880E91E}.Debug|x86.Build.0 = Debug|Any CPU
+		{E0BE86CB-AF20-4F61-99DC-5D22D880E91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BE86CB-AF20-4F61-99DC-5D22D880E91E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0BE86CB-AF20-4F61-99DC-5D22D880E91E}.Release|x86.ActiveCfg = Release|Any CPU
+		{E0BE86CB-AF20-4F61-99DC-5D22D880E91E}.Release|x86.Build.0 = Release|Any CPU
+		{EF3F6EA1-38F2-4C3C-8079-C06B8B5DDCC0}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{EF3F6EA1-38F2-4C3C-8079-C06B8B5DDCC0}.Debug|x86.ActiveCfg = Debug|x86
+		{EF3F6EA1-38F2-4C3C-8079-C06B8B5DDCC0}.Debug|x86.Build.0 = Debug|x86
+		{EF3F6EA1-38F2-4C3C-8079-C06B8B5DDCC0}.Release|Any CPU.ActiveCfg = Release|x86
+		{EF3F6EA1-38F2-4C3C-8079-C06B8B5DDCC0}.Release|x86.ActiveCfg = Release|x86
+		{EF3F6EA1-38F2-4C3C-8079-C06B8B5DDCC0}.Release|x86.Build.0 = Release|x86
+		{83816CC9-DB98-4048-888D-E81CB08178D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83816CC9-DB98-4048-888D-E81CB08178D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83816CC9-DB98-4048-888D-E81CB08178D7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{83816CC9-DB98-4048-888D-E81CB08178D7}.Debug|x86.Build.0 = Debug|Any CPU
+		{83816CC9-DB98-4048-888D-E81CB08178D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83816CC9-DB98-4048-888D-E81CB08178D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83816CC9-DB98-4048-888D-E81CB08178D7}.Release|x86.ActiveCfg = Release|Any CPU
+		{83816CC9-DB98-4048-888D-E81CB08178D7}.Release|x86.Build.0 = Release|Any CPU
+		{6FB54AFB-76D2-4AFD-B1C7-38AEF0314B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB54AFB-76D2-4AFD-B1C7-38AEF0314B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB54AFB-76D2-4AFD-B1C7-38AEF0314B6B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6FB54AFB-76D2-4AFD-B1C7-38AEF0314B6B}.Debug|x86.Build.0 = Debug|Any CPU
+		{6FB54AFB-76D2-4AFD-B1C7-38AEF0314B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB54AFB-76D2-4AFD-B1C7-38AEF0314B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB54AFB-76D2-4AFD-B1C7-38AEF0314B6B}.Release|x86.ActiveCfg = Release|Any CPU
+		{6FB54AFB-76D2-4AFD-B1C7-38AEF0314B6B}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
